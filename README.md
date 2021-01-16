@@ -9,5 +9,4 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 👯 I’m looking for a software development internship. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/surajit-p-1a376511b/) [Gmail](surajitpore0@gmail.com)
 
-⭐️ From [hazemessam](https://github.com/surajitpore0)
-Inspired from [AbdelrahmanBayoumi](https://github.com/abdelrahmanbayoumi)
+
